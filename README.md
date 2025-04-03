@@ -102,11 +102,3 @@ The analysis for this project is available in a Jupyter Notebook format. You can
 - **Additional Filters and Granularity**: Add more detailed filters or demographic segments for better insights.
 - **Automated Reports**: Set up automated reports or notifications for key stakeholders based on updated data.
 
-## Licence
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or comments, feel free to reach out to me via GitHub or email: **your-email@example.com**
-
